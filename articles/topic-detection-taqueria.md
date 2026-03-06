@@ -43,6 +43,12 @@ This experiment reinforced an idea I find fascinating:
 
 AI and NLP are not only powerful technically — they can also help translate large volumes of customer feedback into meaningful signals for decision-making.
 
+## Code
+
+The code used for this experiment can be found in the notebook below:
+
+[View the notebook](../notebooks/topic-detection-taqueria.ipynb)
+
 ---
 
 This is part of my **GenAI Learning Journal**, where I document experiments and reflections while exploring Generative AI and NLP.
