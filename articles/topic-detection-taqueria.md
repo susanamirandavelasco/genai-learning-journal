@@ -47,7 +47,7 @@ AI and NLP are not only powerful technically — they can also help translate la
 
 The code used for this experiment can be found in the notebook below:
 
-[View the notebook](../notebooks/topic-detection-taqueria.ipynb)
+[View the notebook](../notebooks/topic_detection_taqueria.ipynb)
 
 ---
 
