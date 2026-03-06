@@ -2,9 +2,9 @@
 
 ## Context
 
-As part of my exploration of Natural Language Processing (NLP), I experimented with a simple topic detection approach using customer reviews from a taquería.
+As part of my exploration of Natural Language Processing (NLP), I experimented with a simple topic detection approach using customer reviews from a taquería. 🌮
 
-The goal was not only to explore the technical side, but also to understand how text analysis can generate insights useful for business decisions.
+💡 The goal was not only to explore the technical side, but also to understand how text analysis can generate insights useful for business decisions.
 
 ## Objective
 
