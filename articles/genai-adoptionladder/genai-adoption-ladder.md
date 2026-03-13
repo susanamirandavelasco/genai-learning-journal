@@ -21,10 +21,10 @@ To describe this progression, this article proposes the GenAI Adoption Ladder.
 ## 2. The GenAI Adoption Ladder
 
 The framework defines four levels of AI adoption.
-- Level 1  Prompt-Based Interaction
-- Level 2  Knowledge-Augmented AI
-- Level 3  Domain-Specialized AI
-- Level 4  Autonomous Systems
+- Level 1:  Prompt-Based Interaction
+- Level 2:  Knowledge-Augmented AI
+- Level 3:  Domain-Specialized AI
+- Level 4:  Autonomous Systems
 
 Each level represents an increase in:
 
@@ -83,8 +83,8 @@ As organizations move up the adoption ladder, several factors increase:
 
 | Dimension | Level 1 | Level 2 | Level 3 | Level 4 |
 | :--- | :---: | ---: | ---: | ---: |
-| Technical complexity | Low | Medium | High | Very High
-| Organizational impact | Low | Medium | High | Transformational |
+| Technical complexity | `Low` | `Medium` | `High` | `Very High`
+| Organizational impact | `Low` | `Medium` | `High` | `Transformational` |
 
 Understanding this progression helps organizations set realistic expectations about AI adoption.
 
